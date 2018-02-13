@@ -1,0 +1,24 @@
+{
+  "name": "reservation-project",
+  "version": "1.0.0",
+  "description": "Parking Reservation with MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fouzianigarsultana/parking-reservation.git"
+  },
+  "keywords": [
+    "MEAN",
+    "reservation",
+    "carparking"
+  ],
+  "author": "Fouzia Nigar Sultana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
